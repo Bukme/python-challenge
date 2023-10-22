@@ -1,0 +1,25 @@
+Financial Analysis:
+----------------------------------------------------------------------------
+The total number of months included in the data set:  86
+
+Total amount of profit/losses over the entire period:  22564198
+
+The changes in profit/losses over the entire period: 
+ 0           NaN
+1    -1443517.0
+2      631156.0
+3    -1004755.0
+4     1581126.0
+        ...    
+81   -1627245.0
+82     616795.0
+83     628522.0
+84      90895.0
+85    -224669.0
+Name: Profit/Losses, Length: 86, dtype: float64
+
+The average changes in profit/losses over the entire period:  -8311.11
+
+Greatest increase in profit:  1862002.0
+
+Greatest decrease in profit:  -1825558.0

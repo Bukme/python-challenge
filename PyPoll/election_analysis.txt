@@ -1,0 +1,13 @@
+Total number of votes cast:  369711
+
+List of candidates who received votes:  ['Charles Casper Stockham' 'Diana DeGette' 'Raymon Anthony Doane']
+
+The percentage of vote each candidate won: 
+                          Ballot ID  percentage
+Candidate                                     
+Charles Casper Stockham      85213      23.049
+Diana DeGette               272892      73.812
+Raymon Anthony Doane         11606       3.139
+
+This is the candidate that has the highest vote by percentage    Diana DeGette
+dtype: object
