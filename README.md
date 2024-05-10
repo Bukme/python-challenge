@@ -28,7 +28,7 @@ The average changes in profit/losses over the entire period:  -8311.11
 Greatest increase in profit:  1862002.0
 
 Greatest decrease in profit:  -1825558.0
-
+```text
 ## PyPoll
 
 The PyPoll.py script analyzes election data to calculate various metrics such as the total number of votes cast, list of candidates who received votes, the percentage of votes each candidate won, and the winning candidate.
