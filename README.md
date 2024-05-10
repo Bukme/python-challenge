@@ -16,7 +16,6 @@ The `PyBank.py` script analyzes financial data to calculate various metrics such
 
 ### Example Output
 
-```text
 Financial Analysis:
 ----------------------------------------------------------------------------
 The total number of months included in the data set:  86
@@ -28,34 +27,36 @@ The average changes in profit/losses over the entire period:  -8311.11
 Greatest increase in profit:  1862002.0
 
 Greatest decrease in profit:  -1825558.0
-```text
+
 ## PyPoll
 
-The PyPoll.py script analyzes election data to calculate various metrics such as the total number of votes cast, list of candidates who received votes, the percentage of votes each candidate won, and the winning candidate.
+The `PyPoll.py` script analyzes election data to calculate various metrics such as the total number of votes cast, list of candidates who received votes, the percentage of votes each candidate won, and the winning candidate.
 
 ### Usage
 
 1. Ensure you have Python installed on your machine.
-2. Navigate to the PyPoll folder.
-3. Place your election data CSV file named election_data.csv in the PyPoll folder.
-4. Run the script using the command python PyPoll.py.
-5. View the analysis report in the generated text file election_analysis.txt.
+2. Navigate to the `PyPoll` folder.
+3. Place your election data CSV file named `election_data.csv` in the `PyPoll` folder.
+4. Run the script using the command `python PyPoll.py`.
+5. View the analysis report in the generated text file `election_analysis.txt`.
 
 ### Example Output
 
 Total number of votes cast:  369711
 
-List of candidates who received votes:  ['Charles Casper Stockham' 'Diana DeGette' 'Raymon Anthony Doane']
+List of candidates who received votes:  
+- Charles Casper Stockham
+- Diana DeGette
+- Raymon Anthony Doane
 
 The percentage of vote each candidate won: 
-                          Ballot ID  percentage
-Candidate                                     
-Charles Casper Stockham      85213      23.049
-Diana DeGette               272892      73.812
-Raymon Anthony Doane         11606       3.139
+| Candidate                 | Ballot ID | Percentage |
+|---------------------------|-----------|------------|
+| Charles Casper Stockham   | 85213     | 23.049     |
+| Diana DeGette             | 272892    | 73.812     |
+| Raymon Anthony Doane      | 11606     | 3.139      |
 
-This is the candidate that has the highest vote by percentage: Diana DeGette
-
+The candidate that has the highest vote by percentage: Diana DeGette
 
 ## References
 
@@ -67,4 +68,5 @@ This is the candidate that has the highest vote by percentage: Diana DeGette
 - YouTube. (2022, December 24). How to convert python output to TXT file! (easy). [https://www.youtube.com/watch?v=FNOpWah3saA](https://www.youtube.com/watch?v=FNOpWah3saA)
 
 Other resourceful ideas were gotten from class activities and office hours.
+
 
